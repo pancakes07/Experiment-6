@@ -1,0 +1,31 @@
+Aim:
+
+program: Basic Program:-
+
+Algorithm:
+1. Start.
+2. Create a dictionary named `JOB` containing Name, Age, Post, and Salary.
+3. Display the complete dictionary.
+4. Access and display the Name using its key.
+5. Access and display the Age using its key.
+6. Access and display the Post using its key.
+7. Access and display the Salary using its key.
+8. Stop.
+
+
+program: count dictionary:-
+
+Algorithm: 
+1. Start.
+2. Input a string.
+3. Create an empty dictionary named `frequency`.
+4. Traverse each character in the string.
+5. If the character exists in the dictionary, increment its count by 1.
+6. Otherwise, add the character to the dictionary with count 1.
+7. Display the character frequency.
+8. Stop.
+
+program: implementation:-
+
+Algorithm:
+
