@@ -29,3 +29,27 @@ program: implementation:-
 
 Algorithm:
 
+1. Start.
+2. Create a dictionary named `JOB` containing Name, Age, Post, and Salary.
+3. Add a new element `ID` to the dictionary.
+4. Display the dictionary after adding the element.
+5. Update the Age in the dictionary.
+6. Display the dictionary after updating the element.
+7. Delete the Salary element from the dictionary.
+8. Display the dictionary after deleting the element.
+9. Stop.
+
+program: Methods:-
+
+Algorithm:
+
+1. Start.
+2. Create a dictionary named `JOB` containing Name, Age, Post, and Salary.
+3. Display all the keys using `keys()`.
+4. Display all the values using `values()`.
+5. Display all key-value pairs using `items()`.
+6. Display the Name using `get()`.
+7. Display Marks using `get()`, showing "Not Available" if the key does not exist.
+8. Update Age to 18 and add Marks with value 9 using `update()`.
+9. Display the updated dictionary.
+10. Stop.
